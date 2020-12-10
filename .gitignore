@@ -2,6 +2,7 @@
 node_modules
 /dist
 error.txt
+/logs
 
 
 # local env files
